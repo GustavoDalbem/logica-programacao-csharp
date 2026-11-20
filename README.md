@@ -10,6 +10,8 @@ Exercícios e anotações dos meus estudos de lógica de programação usando C#
 | 2 | [ProcessamentoDeDadosEmCSharpCasting](ProcessamentoDeDadosEmCSharpCasting) | Processamento de dados e casting: operações com `int` e `double`, divisão de inteiros e conversão entre tipos |
 | 3 | [EntradaDeDadosEmCSharpParte1](EntradaDeDadosEmCSharpParte1) | Entrada de dados: `Console.ReadLine` e `Split` para ler várias palavras na mesma linha |
 | 4 | [EntradaDeDadosEmCSharpParte2](EntradaDeDadosEmCSharpParte2) | Entrada de dados: conversão com `int.Parse`, `char.Parse` e `double.Parse`, com exercício de fixação |
+| 5 | [ExercicioResolvido01](ExercicioResolvido01) | Exercício resolvido: cálculo da área e do preço de um terreno a partir da largura, comprimento e preço do metro quadrado |
+| 6 | [FuncoesMatematicasEmCSharp](FuncoesMatematicasEmCSharp) | Funções matemáticas da classe `Math`: `Sqrt` (raiz quadrada), `Pow` (potência) e `Abs` (valor absoluto) |
 
 ## Como rodar
 
