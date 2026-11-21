@@ -1,4 +1,4 @@
-﻿using.System;
+﻿using System;
 
 namespace URI1001ExtremamenteBasico
 {
@@ -13,7 +13,7 @@ namespace URI1001ExtremamenteBasico
 
             X = A + B;
 
-            Console.Write("X = " + X);
+            Console.WriteLine("X = " + X);
         }
     }
 }
