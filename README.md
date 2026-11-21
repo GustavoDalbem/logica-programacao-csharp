@@ -13,6 +13,14 @@ Exercícios e anotações dos meus estudos de lógica de programação usando C#
 | 5 | [ExercicioResolvido01](ExercicioResolvido01) | Exercício resolvido: cálculo da área e do preço de um terreno a partir da largura, comprimento e preço do metro quadrado |
 | 6 | [FuncoesMatematicasEmCSharp](FuncoesMatematicasEmCSharp) | Funções matemáticas da classe `Math`: `Sqrt` (raiz quadrada), `Pow` (potência) e `Abs` (valor absoluto) |
 
+## Exercícios do URI Online Judge (beecrowd)
+
+Ficam na pasta [URI](URI), um projeto por problema, com o número do problema no nome.
+
+| Problema | Projeto | Assunto |
+|----------|---------|---------|
+| 1001 | [URI1001ExtremamenteBasico](URI/URI1001ExtremamenteBasico) | Extremamente Básico: lê dois inteiros e mostra a soma |
+
 ## Como rodar
 
 Cada pasta é um projeto separado. Abra o arquivo `.slnx` no Visual Studio, ou rode pelo terminal:
