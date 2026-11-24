@@ -20,6 +20,7 @@ Ficam na pasta [URI](URI), um projeto por problema, com o número do problema no
 | Problema | Projeto | Assunto |
 |----------|---------|---------|
 | 1001 | [URI1001ExtremamenteBasico](URI/URI1001ExtremamenteBasico) | Extremamente Básico: lê dois inteiros e mostra a soma |
+| 1002 | [URI1002AreaDoCirculo](URI/URI1002AreaDoCirculo) | Área do Círculo: lê o raio e calcula a área com `Math.Pow`, mostrando 4 casas decimais |
 
 ## Como rodar
 
