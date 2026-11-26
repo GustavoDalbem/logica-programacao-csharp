@@ -25,6 +25,8 @@ Ficam na pasta [URI](URI), um projeto por problema, com o número do problema no
 | 1004 | [URI1004ProdutoSimples](URI/URI1004ProdutoSimples) | Produto Simples: lê dois inteiros e mostra `PROD = ` com a multiplicação |
 | 1007 | [URI1007Diferenca](URI/URI1007Diferenca) | Diferença: lê quatro inteiros e calcula `A * B - C * D` |
 | 1008 | [URI1008Salario](URI/URI1008Salario) | Salário: calcula o salário a partir das horas trabalhadas e do valor da hora (`int` x `double`) |
+| 1010 | [URI1010CalculoSimples](URI/URI1010CalculoSimples) | Cálculo Simples: lê duas linhas com `Split` (vetores) e calcula o valor a pagar pelas peças |
+| 1014 | [URI1014Consumo](URI/URI1014Consumo) | Consumo: calcula o consumo médio (km/l) com 3 casas decimais |
 
 ## Como rodar
 
